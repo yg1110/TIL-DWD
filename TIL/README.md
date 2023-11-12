@@ -1,12 +1,20 @@
 # Today I Learned (TIL)
 
-## Categories
+## 개요
+이 README.md 파일은 그날의 주요 학습과 성과를 기록하는 일일 로그로 사용됩니다.
 
-- [Programming Languages](#programming-languages)
+## 목록
 
-## Programming Languages
+- [수학](#수학)
+- [확률](#확률)
+- [알고리즘](알고리즘/README.md)
+- [자바스크립트](자바스크립트/README.md)
 
-### JavaScript
+### 확률
 
-- [Example TIL Title](javascript/example-title.md): Short description of what you learned.
+- [결합확률, 주변확률, 조건부확률](확률/README.md)
+
+### 수학
+
+- [-](수학/README.md)
 
