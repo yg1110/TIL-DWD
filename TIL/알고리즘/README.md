@@ -127,4 +127,28 @@
             <a href="2444.js">Node.js</a>
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2445">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                별찍기 8
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="2445.js">Node.js</a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://www.acmicpc.net/problem/2446">
+                <img src="https://static.solved.ac/tier_small/3.svg" height="14">
+                별찍기 9
+            </a>
+        </td>
+        <td>
+            <img src="https://via.placeholder.com/12/F1E05A/000000?text=+" height="12">
+            <a href="2446.js">Node.js</a>
+        </td>
+    </tr>
 </table>
